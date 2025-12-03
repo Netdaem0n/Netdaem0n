@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Netdaem0n
-- 👀 I’m interested in Python, Network, old stuff...
-- 🌱 I’m currently learning Python, C#
-- 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me - just pm me, @Netdaemon Telegram.
+### Hi there, I'm Andrey 👋
 
-<!---
-Netdaem0n/Netdaem0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **Python Backend Developer** passionate about building high-performance APIs, scalable architecture, and clean code.
+
+- 🔭 I’m currently working on **FastAPI Microservices**
+- 🌱 I’m currently learning **Advanced AsyncIO patterns & System Design**
+- 💬 Ask me about **Python, Docker, Backend Architecture**
+- 📫 How to reach me: **https://t.me/Netdaem0n**
+
+---
